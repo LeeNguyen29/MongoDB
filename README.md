@@ -61,7 +61,6 @@ For each theater, select the name of the theater and also a list of all the film
 ### Deliverables
 You must deliver to me, via Dropbox, a single PDF containing the following documents:
 
-Title page (name of course, title of assignment, team member names, due date)
 Schemas for adding actors to films. Include all schemas that you created or modified to implement this.
 A written justification for the decisions you made in implementing the actors (and related) schemas. This 1-2 paragraph response, in full English sentences, should communicate the depth and breadth of decisions you made in designing this part of the schema. You should, at a minimum, answer the questions posed to you in the "A New Collection" section, in the context of your final answer.
 JSON documents for the theaters, films, showings, and actors that you were required to create.
