@@ -53,7 +53,6 @@ Implement the design for your actors in the schema accordingly. As noted above, 
 
 ### Queries
 Finally, write mongosh queries to answer the following questions. You will turn in the queries, and not the results of the queries.
-
 Select all films that have "Action" as one of their genres, sorted by film title.
 Select the showtime of all Black Panther: Wakanda Forever showings that are on November 11. You don't need to use joins; you can hard-code the filmId of this film. Hint: you can use a filter with both $lt and $gt comparisons. A date is on November 11 2022 if it is greater than midnight of November 11 and less than ____.... To put a date into a query, you must write ISODate("..."), where the parameter is the date in YYYY-MM-DD format.
 For each theater, select the name of the theater and also a list of all the film titles and showtimes of all showings scheduled in the theater. This requires a join from theater to showing.
